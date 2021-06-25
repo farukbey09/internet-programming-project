@@ -1,0 +1,17 @@
+- Slider Yapılacak
+-headera logo yap tıklandıgında main pageyi açsın
+-Site için fotoğraflar bulunacak
+- nav barın için  1)Menu Listing ,   2)Locations  , 3)Campaign ,4)Getting information about us ,5)Main Page
+1)tıklandıgında menuler listelenecek
+2)tıklandıgında burger yiyelimin locationsı verilecek 
+3)tıklandıgında kampanyalar gösterilecek burada sadece listeleme işlemi yapılacak
+4)tıklandıgında  sayfanın geçmişten bugune olan tarihi ve sayfa hakkında bilgi
+5) tıklandıgında main page açılacak
+
+
+-footer için 1)Privacy ,2)Complaint ,3)Contact Us ,4)Opinion the user 
+1)sitenin ortasına bir text alanı oluşturulacak . privacy direkt o siteden alınıp kopyalanıcak. 
+2)tıklandında şikayet sayfası açılacak ve burda bir kaç input olucak, kullanıcı submite basınca yukarıdan alert vericez.
+3)tıklandıgında bilgilendirme sayfası acılacak
+4)tıklandıgında burada değerlendirme sayfası açılacak
+
